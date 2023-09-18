@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1018862652984-dshf10n7m0cjfp3gns03ujao80qhakuo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1018862652984</string>
+    <string name="google_api_key" translatable="false">AIzaSyA2OL16EAfQSnXXB485Nlb6rJ6t5nFz4-s</string>
+    <string name="google_app_id" translatable="false">1:1018862652984:android:a7d0ba0ad6e89efed820cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA2OL16EAfQSnXXB485Nlb6rJ6t5nFz4-s</string>
+    <string name="google_storage_bucket" translatable="false">coaching-1e1ad.appspot.com</string>
+    <string name="project_id" translatable="false">coaching-1e1ad</string>
+</resources>

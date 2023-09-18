@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018862652984",
+    "project_id": "coaching-1e1ad",
+    "storage_bucket": "coaching-1e1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018862652984:android:a7d0ba0ad6e89efed820cd",
+        "android_client_info": {
+          "package_name": "com.microdesk.coaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018862652984-dshf10n7m0cjfp3gns03ujao80qhakuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OL16EAfQSnXXB485Nlb6rJ6t5nFz4-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018862652984-dshf10n7m0cjfp3gns03ujao80qhakuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
